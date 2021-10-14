@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Piano">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jMusic1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jsyn-20151102.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RXTXcomm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

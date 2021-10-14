@@ -1,0 +1,12 @@
+<root>
+    <percussion type='snare' name='Snare' color='50 50 50' midiCode='47' pitch='53' volume='100' pin='1' radius='110' xloc='10' yloc='150'/>
+    <percussion type='tom' name='Tom 1' color='50 50 50' midiCode='20' pitch='60' volume='100' pin='2' radius='100' xloc='70' yloc='30'/>
+    <percussion type='tom' name='Tom 2' color='50 50 50' midiCode='20' pitch='55' volume='100' pin='3' radius='100' xloc='200' yloc='30'/>
+    <percussion type='floor tom' name='Floor Tom 1' color='50 50 50' midiCode='20' pitch='50' volume='100' pin='4' radius='110' xloc='250' yloc='150'/>
+    <percussion type='kick' name='Kick' color='50 50 50' midiCode='20' pitch='43' volume='100' pin='5' radius='70' xloc='150' yloc='150'/>
+        
+    <cymbal type='hi-hat' name='Hi-hat' color='50 50 50' midiCode='15' pitch='80' volume='50' pin='6'/>
+    <cymbal type='crash' name='Crash 1' color='50 50 50' midiCode='15' pitch='80' volume='50' pin='7'/>
+    <cymbal type='china' name='China' color='50 50 50' midiCode='15' pitch='80' volume='50' pin='8'/>
+    <cymbal type='splash' name='Splash' color='50 50 50' midiCode='15' pitch='80' volume='50' pin='9'/>           
+</root>
